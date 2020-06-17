@@ -31,6 +31,8 @@
   width:80%;
   margin:2% 10% 3%;
   font-size:16px;
+  font:normal,Arial,serif;
+  line-height: 1.5;
 }
 
 .avatar_without_photo{
@@ -161,10 +163,6 @@
   text-align:center;
   font-size:20px;
   margin:0 0 7% 0;
-}
-
-.label:hover{
-
 }
 
 .skills{
